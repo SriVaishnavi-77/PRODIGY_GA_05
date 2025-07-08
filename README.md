@@ -44,7 +44,7 @@ This project implements a **Neural Style Transfer** model using PyTorch. It appl
 
 | Content Image | Style Image | Output Image |
 |---------------|-------------|---------------|
-| ![content](content.jpg) | ![style](style.jpg) | ![output](output.jpg) |
+| ![content](content.jpg) | ![style](style.jpg) | ![output](final_output.jpg) |
 
 ---
 
