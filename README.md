@@ -49,7 +49,7 @@ This project implements a **Neural Style Transfer** model using PyTorch. It appl
 ---
 
 ## 🚀 Run on Colab
-[Click here to run the notebook](https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK)
+[Click here to run the notebook](https://colab.research.google.com/drive/10oSwmntSZXX19Dsm0UVszPXepxTXRGZM?authuser=0#scrollTo=_XLIYm5TFDa0)
 
 ---
 
